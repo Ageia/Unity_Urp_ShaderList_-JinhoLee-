@@ -1,6 +1,4 @@
 # Unity_URP_ShaderList
-
-  사용 시 주의사항
   
 -FX_SubGraph_MotionVector
 
