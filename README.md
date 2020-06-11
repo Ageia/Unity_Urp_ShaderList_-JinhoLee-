@@ -1,10 +1,8 @@
 # Unity_URP_ShaderList
 
-유니티 쉐이더 모음입니다.
-
--FX_SubGraph_MotionVector
-  
   사용 시 주의사항
+  
+-FX_SubGraph_MotionVector
   1. 모션 벡터 텍스처는 sRGB를 반드시 꺼주세요. (데이터 기반이라 리니어로 처리 해야됩니다)
   2. 모션 벡터 텍스쳐의 G값을 OneMinus 해주세요. (쉐이더 안에 넣을려고 했는데 연산 조금이라도 줄일려고 뺐어요.)
   3. MotionAmount값은 매우 민감합니다. 0.01~0.025와 같이 낮은 값에서 잘 조절해보세요.
