@@ -1,6 +1,6 @@
-# Unity_Subgraph
+# Unity_URP_ShaderList
 
-유니티 서브 그래프모음입니다.
+유니티 쉐이더 모음입니다.
 
 -모션벡터
   
