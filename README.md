@@ -4,7 +4,7 @@
 
 ![모션_벡터_테스트2](https://user-images.githubusercontent.com/10443544/84388020-d9286e00-ac2e-11ea-8dbe-6c081cf7cb48.gif)
 
-[![Watch the video](https://user-images.githubusercontent.com/10443544/84396238-3de8c600-ac39-11ea-8def-cb062cbcd659.png)](https://youtu.be/1efJybmJ870)
+[![Watch the video](https://user-images.githubusercontent.com/10443544/84588153-da8cad00-ae5f-11ea-9810-3db8eebc3e06.png)](https://youtu.be/1efJybmJ870)
 
   1. 모션 벡터 텍스쳐는 sRGB를 반드시 꺼주세요. (데이터 기반이라 리니어로 처리 해야됩니다)
   2. 모션 벡터 텍스쳐의 G값을 OneMinus 해주세요. (쉐이더 안에 넣을려고 했는데 연산 조금이라도 줄일려고 뺐습니다.)
