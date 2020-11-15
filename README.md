@@ -15,6 +15,9 @@
   
 ![녹화_2020_11_12_18_59_49_206](https://user-images.githubusercontent.com/10443544/99161796-10003400-2739-11eb-81f2-a67db8fb6544.gif)
 
+[![Watch the video](https://user-images.githubusercontent.com/10443544/99162120-59eb1900-273d-11eb-98aa-c6cc728c4233.png)](https://www.youtube.com/watch?v=1ahkbleB29I&feature=youtu.be)
+
+
 1. 그라데이션 서브 그래프를 넣은 뒤 필요한 데이터를 모두 넣고 프로퍼티의 Reference이름을 서브 그래프의 데이터 이름과 일치 시킵니다.
 2. 마스터 노드의 ShaderGUI의 이름을 GradientGUI로 입력 해주시면 됩니다.
 3. 그라데이션 프로퍼티의 이름은 Color0의 프로퍼티 이름을 그대로 가져옵니다.
