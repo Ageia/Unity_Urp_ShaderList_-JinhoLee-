@@ -11,6 +11,7 @@
   3. MotionAmount값은 매우 민감합니다. 0.01~0.025와 같이 낮은 값에서 조절 해주세요.
   4. 5x5타일에서 제대로 재생이 안되는 문제가 있습니다. (유니티 플립북 버그 인거 같은데 원인 못찾았네요.)
   
+-ShaderGraph_Gradient_InspectorDrawer
   
 ![녹화_2020_11_12_18_59_49_206](https://user-images.githubusercontent.com/10443544/99161796-10003400-2739-11eb-81f2-a67db8fb6544.gif)
 
